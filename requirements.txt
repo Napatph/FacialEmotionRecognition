@@ -1,8 +1,0 @@
-streamlit
-torch
-torchvision
-ultralytics
-opencv-python
-Pillow
-scikit-learn
-numpy
